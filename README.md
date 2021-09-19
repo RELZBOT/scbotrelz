@@ -32,3 +32,4 @@ Kalo di download scnya comand : cd download
 #node index.js / npm start
 Scan qrnya
 Selamat mencoba semoga berhasil
+
